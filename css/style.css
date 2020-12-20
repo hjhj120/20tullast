@@ -1,0 +1,415 @@
+.main { width: 100%;
+		height:100%;
+		background-color: black;
+		}
+
+@-webkit-keyframes anima4 {
+	0% {opacity: 1; height: 100%; width: 10%; margin-top: 0%;}
+	99% {opacity: 1;}
+	100% {opacity: 0; height: 0%; width: 10%; margin-top: 100%;}
+}
+
+.popopo {width: 100%;
+			height:100%;
+			background-color:;
+			display: flex;
+			position: absolute;}
+
+.popopo1	{width: 10%; height: 100%;
+				background-color: black;
+				animation-name: anima4;
+				animation-duration: 6s;
+				animation-fill-mode: forwards;
+				position: relative; }
+
+.popopo1:hover {width: 10%;
+				height: 0%;
+				position: relative;}
+
+.popopo2	{width: 10%; height: 100%;
+				background-color: black;
+				animation-name: anima4;
+				animation-duration: 6.2s;
+				animation-fill-mode: forwards;
+				position: relative; }
+
+.popopo2:hover {width: 10%;
+				height: 0%;
+				position: relative;}
+
+.popopo3	{width: 10%; height: 100%;
+				background-color: black;
+				animation-name: anima4;
+				animation-duration: 7s;
+				animation-fill-mode: forwards;
+				position: relative; }
+
+.popopo3:hover {width: 10%;
+				height: 0%;
+				position: relative;}
+
+.popopo4	{width: 10%; height: 100%;
+				background-color: black;
+				animation-name: anima4;
+				animation-duration: 6.7s;
+				animation-fill-mode: forwards;
+				position: relative; }
+
+.popopo4:hover {width: 10%;
+				height: 0%;
+				position: relative;}
+
+.popopo5	{width: 10%; height: 100%;
+				background-color: black;
+				animation-name: anima4;
+				animation-duration: 6.5s;
+				animation-fill-mode: forwards;
+				position: relative; }
+
+.popopo5:hover {width: 10%;
+				height: 0%;
+				position: relative;}
+
+
+.po {width: 100%;
+	height: 100%;
+	position: absolute;
+	background-color: black;
+	display: flex; 
+	}
+
+
+.po0 {width: 2%;
+		height: 100%;
+		position: relative;
+		background-color: black;}
+
+
+.po1 {width: auto;
+	height: auto;
+	max-width: 60%;
+		max-height: 100%;
+		position: relative;
+		background-color: black;
+	 display: flex;
+	 flex-direction: column;}
+
+.po2	{width: auto;
+		width: auto;
+	max-width: 35%;
+		max-height: 100%;
+		background-color: black;
+		position: relative;
+		}
+
+.po3	{width: 100%;
+			height: 48%;
+			background-color:black;
+			position: relative;
+				display: flex;}
+
+.po4	{width: 100%;
+		height: 52%;
+		background-color: black;
+		position: relative;
+
+	    }
+
+.po5	{width: auto;
+	max-width: 30%;
+	height: auto;
+	max-height: 100%;
+		position:relative;
+		background-color: black; }
+
+.po6 {width: auto;
+	max-width: 70%;
+	height: auto;
+	max-height: 100%;
+		position: relative;
+		background-color: black;}
+
+.im1 {height: auto;
+	width: auto;
+
+	max-height: 75%;
+	max-width: 75%;
+
+	margin-top: 15%;
+	margin-left: 17%;}
+
+.im2 {max-height: 75%;
+	max-width: 70%;
+
+		height: auto;
+		width: auto;
+
+		margin-top: 6.5%;
+		margin-left: 0%;}
+
+.im3 {max-height: 80%;
+		max-width: 90%;
+
+		width: auto;
+		height: auto;
+
+		margin-top: 20%;}
+
+.im4 {width: auto;
+		height: auto;
+		max-height: 23%;
+		margin-left: 5%;}
+
+.im5 {width: auto;
+		height: auto;
+		max-height: 23%;
+		margin-top: 5%;
+		margin-left: 5%;
+}
+	
+.im6 {width: auto;
+		height: auto;
+		max-height: 10%;
+		margin-top: 5%;
+	margin-left: 5%;}
+
+
+.animat {width: 100%;
+		height: 100%;
+		position: absolute;
+	 display: flex;
+	 flex-direction: column;
+	 background-color: ;}
+
+@-webkit-keyframes anima1 {
+	0% {margin-left: 0%; width: 0%;}
+	100% {margin-left: 0%; width: 100%;}
+}
+
+
+.ani1 {height: 10%;
+ 		width: 0%;
+ 		 animation-name: anima1;
+ 		 animation-duration: 1s;
+ 		 background-color: #FA452B;
+ 		 animation-delay: 6s;
+ 		 animation-fill-mode: forwards;}
+
+ .ani1:hover {height: 10%;
+ 				width: 100%;
+ 				margin-left: 0%;
+ }
+
+ .ani2 {height: 10%;
+ 		width: 0%;
+ 		 animation-name: anima1;
+ 		 animation-duration: 1.5s;
+ 		 background-color: #FA452B;
+ 		 animation-delay: 6s;
+ 		 animation-fill-mode: forwards;}
+
+ .ani2:hover {height: 10%;
+ 				width: 100%;
+ 				margin-left: 0%;
+ }
+ .ani3 {height: 10%;
+ 		width: 0%;
+ 		 animation-name: anima1;
+ 		 animation-duration: 1.25s;
+ 		 background-color: #FA452B;
+ 		 animation-delay: 6s;
+ 		 animation-fill-mode: forwards;}
+
+ .ani3:hover {height: 10%;
+ 				width: 100%;
+ 				margin-left: 0%;
+ }
+ .ani4 {height: 10%;
+ 		width: 0%;
+ 		 animation-name: anima1;
+ 		 animation-duration: 1.75s;
+ 		 background-color: #FA452B;
+ 		 animation-delay: 6s;
+ 		 animation-fill-mode: forwards;}
+
+ .ani4:hover {height: 10%;
+ 				width: 100%;
+ 				margin-left: 0%;
+ }
+ .ani5 {height: 10%;
+ 		width: 0%;
+ 		 animation-name: anima1;
+ 		 animation-duration: 1s;
+ 		 background-color: #FA452B;
+ 		 animation-delay: 6s;
+ 		 animation-fill-mode: forwards;}
+
+ .ani5:hover {height: 10%;
+ 				width: 100%;
+ 				margin-left: 0%;
+ }
+ .ani6 {height: 10%;
+ 		width: 0%;
+ 		 animation-name: anima1;
+ 		 animation-duration: 2s;
+ 		 background-color: #FA452B;
+ 		 animation-delay: 6s;
+ 		 animation-fill-mode: forwards;}
+
+ .ani6:hover {height: 10%;
+ 				width: 100%;
+ 				margin-left: 0%;
+ }
+ .ani7 {height: 10%;
+ 		width: 0%;
+ 		 animation-name: anima1;
+ 		 animation-duration: 1.5s;
+ 		 background-color: #FA452B;
+ 		 animation-delay: 6s;
+ 		 animation-fill-mode: forwards;}
+
+ .ani7:hover {height: 10%;
+ 				width: 100%;
+ 				margin-left: 0%;
+ }
+ .ani8 {height: 10%;
+ 		width: 0%;
+ 		 animation-name: anima1;
+ 		 animation-duration: 1.1s;
+ 		 background-color: #FA452B;
+ 		 animation-delay: 6s;
+ 		 animation-fill-mode: forwards;}
+
+ .ani8:hover {height: 10%;
+ 				width: 100%;
+ 				margin-left: 0%;
+ }
+ .ani9 {height: 10%;
+ 		width: 0%;
+ 		 animation-name: anima1;
+ 		 animation-duration: 1.8s;
+ 		 background-color: #FA452B;
+ 		 animation-delay: 6s;
+ 		 animation-fill-mode: forwards;}
+
+ .ani9:hover {height: 10%;
+ 				width: 100%;
+ 				margin-left: 0%;
+ }
+ .ani10 {height: 10%;
+ 		width: 0%;
+ 		 animation-name: anima1;
+ 		 animation-duration: 1.4s;
+ 		 background-color: #FA452B;
+ 		 animation-delay: 6s;
+ 		 animation-fill-mode: forwards;}
+
+ .ani10:hover {height: 10%;
+ 				width: 100%;
+ 				margin-left: 0%;
+ }
+
+ .popo {position: absolute;
+ 		width: 100%;
+ 		height: 100%;
+ 		background-color: ;
+ 		animation-name: anima2;
+ 		
+ 		animation-duration: 8s;
+ 	 	display: flex;}
+
+ @-webkit-keyframes anima2 {
+	0% {opacity: 0;}
+	99%{opacity: 0;}
+	100% {opacity: 1;}
+}
+
+.popo1 {width: 55%;
+		height: 100%;
+		position: relative;}
+
+.popo2 {width: 45%;
+		height: 100%;
+		position: relative;}
+
+.im7 {width: auto;
+	height: auto;
+	max-width: 90%;
+	margin-top: 5%;}
+
+.im8 {width: auto;
+	height: auto;
+	max-height: 90%;
+	margin-top: 7%;}
+
+
+ @-webkit-keyframes anima3 {
+	0% {margin-left: 0%; width: 100%; height: 100%; opacity: 1;}
+	99% {opacity: 1;}
+	100% {margin-left: 100%; width: 0%; height: 100%; opacity: 0;}
+}
+
+.popo3 {width: 100%;
+		height: 100%;
+		animation-name: anima3;
+		animation-delay: 7.5s;
+		animation-duration: 7.5s;
+		position: absolute;
+		animation-fill-mode: forwards;
+		background-color:  #FA452B;}
+
+.popo3:hover { width: 0%;
+				height: 100%; 
+				position: absolute;}
+
+.popo4 {width: 100%;
+		height: 100%;
+		animation-name: anima3;
+		animation-delay: 7.5s;
+		animation-duration: 7s;
+		position: absolute;
+		animation-fill-mode: forwards;
+		background-color:  #FA452B;}
+
+.popo4:hover { width: 0%;
+				height: 100%; 
+				position: absolute;}	
+
+.popo5 {width: 100%;
+		height: 100%;
+		animation-name: anima3;
+		animation-delay: 7.5s;
+		animation-duration: 8s;
+		position: absolute;
+		animation-fill-mode: forwards;
+		background-color:  #FA452B;}
+
+.popo5:hover { width: 0%;
+				height: 100%; 
+				position: absolute;}	
+
+.popo6 {width: 100%;
+		height: 100%;
+		animation-name: anima3;
+		animation-delay: 7.5s;
+		animation-duration: 8.1s;
+		position: absolute;
+		animation-fill-mode: forwards;
+		background-color:  #FA452B;}
+
+.popo6:hover { width: 0%;
+				height: 100%; 
+				position: absolute;}	
+
+.popo7 {width: 100%;
+		height: 100%;
+		animation-name: anima3;
+		animation-delay: 7.5s;
+		animation-duration: 7.7s;
+		position: absolute;
+		animation-fill-mode: forwards;
+		background-color:  #FA452B;}
+
+.popo7:hover { width: 0%;
+				height: 100%; 
+				position: absolute;}	
